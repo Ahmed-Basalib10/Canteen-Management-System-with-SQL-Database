@@ -1,12 +1,12 @@
 # Canteen-Management-System
-Canteen Management System comes with feature of User Account to control the access and maintain security.\
-Hence, only authorized user can use the software which reduces the risk of data stealing and data manipulation\
+Canteen Management System comes with New and Interesting features of Users Account to control the access and maintain security.\
+Hence, only authorized user can be  use the software which reduces the risk of data stealing and data manipulation\
 by unauthorized user. The user authentication is of two types (owner login & employee login), \
 the owner login has supreme control over employee login. Owner can add/remove/ employee as well as manipulate\
-the details of the employee. The another main feature of Canteen Management System. is Inventory.\
+the details of the employee. The another main feature of Canteen Management System is new Inventory.\
 
 Canteen Management System is based on concept of file handling in C++. So, our data is stored in traditional files.\
-The data can be recover if incase it gets lost. Concept of object oriented programming provides easiness while programming software.\
+The data can be recover if incase it gets lost.So , don"t worry your data is safe. Concept of object oriented programming provides easiness while programming software.\
 The C++ concepts provides security. Our project runs on C++ compiler which can be easily installed on any system,\
 hence provides portability. The Canteen Management System has a well design interface which make a non technical user\
 friendly with the software. This also make decrease the load of the person involve in existing mana system. Due to file\
